@@ -6,6 +6,9 @@
 ## Git Repository
 https://github.com/develup-official/css-ep2-billie-board
 
+## 강의 전체내용 Youtube URL
+https://youtu.be/f_0nm22OYtA
+
 ## 필요한 기초개념
 - 선택자 Seletor
 - 가상요소 Pseudo Elements 
